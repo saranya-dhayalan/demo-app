@@ -1,0 +1,5 @@
+<html>
+<body>
+<bdo dir="rtl">hi friends </bdo>
+</html>
+</body>
